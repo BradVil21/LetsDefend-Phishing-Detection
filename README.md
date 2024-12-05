@@ -57,7 +57,10 @@ You will then search the logs for specific details within the <b>"LOG MANAGEMENT
 <br>
 <b>time:</b> Mar, 22, 2021, 09:23 PM
 <br>
-<b>Request URL:</b> |DO NOT CLICK| http://mogagrocol.ru/wp-content/plugins/akismet/fv/index.php?email=ellie@letsdefend.io |DO NOT CLICK|
+<b>Request URL:</b> |DO NOT CLICK|<br> 
+http://mogagrocol.ru/wp-content/plugins/akismet/fv/index.php?email=ellie@letsdefend.io
+
+<br>|DO NOT CLICK|
 <br>
 <br>
 <b>!!!WAIT!!</b> Before you do anything else it shows that the alert was alerting to a <b>Phishing URL Detected</b>. Now this takes us to step 3.<br><br>
@@ -73,8 +76,8 @@ Here is a link to provided 3rd party tools to help Analyze the suspicious URL:<b
 <br>
 For this alert, I will be using both <b>VirusTotal</b> and <b>AnyRun</b>. After inserting the link to both tools, it is shown that this link is coming back to several <b>phishing alerts</b>. Now that we have confirmed this link is a threat we can head to step 4.<br><br>
 
-<b>STEP 4<b><br>
-It is important to find out if anyone has accessed the URL domain within the organization. We can view this activity by heading to the <b>"LOG MANAGEMENT"</b> to obtain this information. While investigating keep the following questions in mind: <br>
+<b>STEP 4</b><br>
+It is important to find out if anyone has accessed the URL domain within the organization. We can view this activity by heading to the <b>"LOG MANAGEMENT"</b> to obtain this information. While investigating keep the following questions in mind: <br><br>
 When was it accessed?<br>
 What is the source address?<br>
 What is the destination address?<br>
