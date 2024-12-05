@@ -39,7 +39,7 @@ Please also use this as a guide on how to work phishing alerts using Let's Defen
 While working through this alert, it is important to keep track of what the alert has provided. <b>What should I do first?</b> Well good question. If you head to <b>"CASE PLAYBOOK"</b>, you are provided with details on what you should check for. Here is the collection data for this alert: <br><br>
 
 * <b>Source Address:</b> 172.16.17.49<br>
-* <b>Destination Address:</b>91.189.114.8<br>
+* <b>Destination Address:</b> 91.189.114.8<br>
 * <b>User-Agent:</b>Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36<br><br>
 
 <b>STEP 2</b><br>
