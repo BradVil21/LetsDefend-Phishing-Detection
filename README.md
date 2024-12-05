@@ -57,12 +57,11 @@ You will then search the logs for specific details within the <b>"LOG MANAGEMENT
 <br>
 <b>time:</b> Mar, 22, 2021, 09:23 PM
 <br>
-<b>Request URL:</b> |DO NOT CLICK|<br> 
+<b>Request URL:</b> <br><br>|DO NOT CLICK|<br> 
 http://mogagrocol.ru/wp-content/plugins/akismet/fv/index.php?email=ellie@letsdefend.io
 http://67.68.210.95/2SjAcA5VhhJiFjBQ/vvszin6AicmidnG5bg/DaDVVYvfEHlcIIcgcu/0U5UiIkaHankrHGa/FYSJmdQDj2ejni1UI/
 http://162.241.242.173:8080/HQ9TemntfBzghL/3wz57awaSHlQrrnP/S78n2aUqY7U/
 http://places.hayatistanbul.net/wp-content/themes/Netflix
-
 <br>|DO NOT CLICK|
 <br>
 <br>
