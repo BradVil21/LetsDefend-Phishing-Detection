@@ -68,7 +68,7 @@ http://places.hayatistanbul.net/wp-content/themes/Netflix
 <b>!!!WAIT!!</b> Before you do anything else it shows that the alert was alerting to a <b>Phishing URL Detected</b>. Now this takes us to step 3.<br><br>
 
 <b>STEP 3</b><br>
-Here is a link to provided 3rd party tools to help Analyze the suspicious URL:<br>
+Here is a link that provides 3rd party tools to help Analyze the suspicious URL:<br>
 
 <a href="https://app.any.run/">AnyRun</a><br>
 <a href="https://www.virustotal.com/gui/home/upload">VirusTotal</a><br>
