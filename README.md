@@ -88,5 +88,8 @@ Which user tried to access?<br>
 What is User Agent?<br>
 Is the request blocked?<br>
 
-Based on the information provided, all links were coming from the client hostname EmilyComp with an IP address of <b>172.16.17.49</b> on a Windows operating system. After viewing the browsing history, this also shows several links that I have thrown into VirusTotal with a result of phishing and malware detection. Now that we know where the device is coming from it is safe to say that we need to <b>"CONTAIN"</b> this device from receiving future threats which could harm the organization / network. 
+Based on the information provided, all links were coming from the client hostname EmilyComp with an IP address of <b>172.16.17.49</b> on a Windows operating system. After viewing the browsing history, this also shows several links that I have thrown into VirusTotal with a result of phishing and malware detection. Now that we know where the device is coming from it is safe to say that we need to <b>"CONTAIN"</b> this device from receiving future threats which could harm the organization/network.<br><br>
+
+<b>STEP 5</b><br>
+It is now time to wrap up the alert after confirming this as a <b>TRUE POSITIVE<b> alert. Start by attaching your documents/findings to the artifacts provided on Let's Defend. 
 
