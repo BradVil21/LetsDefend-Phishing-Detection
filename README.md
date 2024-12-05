@@ -33,4 +33,11 @@
 <br>
 <br>
 Please also use this as a guide on how to work phishing alerts using Let's Defend. For any questions or concerns you can <b>CONTACT</b> me directly on <a href= "https://www.linkedin.com/in/bradley-vilsaint-414329267/">LinkedIn</a> or email <a href="info@letsdefend.io">info@letsdefend.io</a> for support.
+<br>
+<br>
+<b>STEP1</b>
+While working through this alert, it is important to keep track of what the alert has provided. <b>What should I do first?</b> Well good question. If you head to <b>"CASE PLAYBOOK"</b, you are provided with details on what you should check for. Here is the collection data for this alert: <br>
+*Source Address<br>
+*Destination Address<br>
+*User-Agent<br>
 
